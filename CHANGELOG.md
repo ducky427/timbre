@@ -1,6 +1,7 @@
 ## Pending / unreleased
 
- * CHANGE: Improved profiling memory efficiency (max memory use, was previously unbounded).
+ * CHANGE: Profiling: improve memory efficiency (max memory use, was previously unbounded).
+ * CHANGE: Profiling: make larger call numbers easier to read.
 
 
 ## v3.1.6 / 2014 Mar 16
